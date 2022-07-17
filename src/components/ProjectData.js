@@ -68,15 +68,15 @@ export const ProjectText = [
   },
   {
     id: 6,
-    title: "Project 6",
+    title: "First Portfolio Website",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra tellus ac lacus semper ullamcorper. Duis commodo bibendum eros, consectetur volutpat ex tincidunt vel. Nam augue est, fringilla in tempus sed, venenatis nec ante. Donec auctor ornare justo id convallis",
-    languages: ["Javascript", "Express", "Css", "Node"],
+    languages: ["Javascript", "Html", "Css", "Php"],
     screenshots: [
         "https://bchiang7.github.io/v2/img/portfolio/crowddj/crowddj.jpg",
         "https://bchiang7.github.io/v2/img/portfolio/crowddj/crowddj-tablet.jpg",
         "https://bchiang7.github.io/v2/img/portfolio/crowddj/crowddj-mobile.jpg",
       ],
-      links: ['https://github.com/ahmedsmrt/Sabr-Natr', 'https://sabr-nature-blog.netlify.app/' ]
+      links: ['https://github.com/ahmedsmrt/Web-Portfolio', 'https://ahmedsmrt.github.io/Web-Portfolio/' ]
   },
 ];
