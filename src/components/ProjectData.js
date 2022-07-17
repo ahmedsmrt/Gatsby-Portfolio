@@ -42,14 +42,14 @@ export const ProjectText = [
   },
   {
     id: 4,
-    title: "Project 4",
+    title: "Personal Website Ver 2",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra tellus ac lacus semper ullamcorper. Duis commodo bibendum eros, consectetur volutpat ex tincidunt vel. Nam augue est, fringilla in tempus sed, venenatis nec ante. Donec auctor ornare justo id convallis",
     languages: ["Javascript", "Express", "Css", "Node"],
     screenshots: [
-        "https://bchiang7.github.io/v2/img/portfolio/crowddj/crowddj.jpg",
-        "https://bchiang7.github.io/v2/img/portfolio/crowddj/crowddj-tablet.jpg",
-        "https://bchiang7.github.io/v2/img/portfolio/crowddj/crowddj-mobile.jpg",
+        "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%206.jpg?raw=true",
+        "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%209.jpg?raw=true",
+        "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2010.jpg?raw=true",
       ],
       links: ['https://github.com/ahmedsmrt/Sabr-Natr', 'https://sabr-nature-blog.netlify.app/' ]
   },

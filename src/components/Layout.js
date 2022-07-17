@@ -15,7 +15,7 @@ const GlobalStyles = createGlobalStyle`
   background: #071624;
   color: #EFECEA;
   font-family: quasimoda, sans-serif;
-  overflow-y: auto;
+  overflow-x: hidden;
   min-height: 100%;
   margin: 0px;
   scroll-behavior: smooth;
