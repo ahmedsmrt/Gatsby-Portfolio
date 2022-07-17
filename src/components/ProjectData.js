@@ -8,7 +8,7 @@ export const ProjectText = [
       "As a way to motivate myself to travel to one of my favorite countries (Japan), I built a travel blog website with limited functionality to get a hang of the framework!",
     languages: ["Javascript", "Html", "Css", "React"],
     screenshots: [
-      "",
+      "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Sabr-large.jpg?raw=true",
       "https://bchiang7.github.io/v2/img/portfolio/crowddj/crowddj-tablet.jpg",
       "https://bchiang7.github.io/v2/img/portfolio/crowddj/crowddj-mobile.jpg",
     ],
