@@ -115,7 +115,7 @@ const ProjectBoxContainer = styled.div`
   }
 
   .img-md {
-    width: 27%;
+    width: 25%;
     right: 14%;
     z-index: 2;
     border: 0;
@@ -132,7 +132,7 @@ const ProjectBoxContainer = styled.div`
     box-shadow: 0 5px 5px 0 rgb(0 0 0 / 75%);
     border: 0;
     position: absolute;
-    right: 20px;
+    right: 60px;
     bottom: 6px;
     border-radius: 2px;
   }

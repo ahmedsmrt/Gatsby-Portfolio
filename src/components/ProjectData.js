@@ -9,7 +9,7 @@ export const ProjectText = [
     languages: ["Javascript", "Html", "Css", "React"],
     screenshots: [
       "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Sabr-large.jpg?raw=true",
-      "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%201.jpg?raw=true",
+      "https://raw.githubusercontent.com/ahmedsmrt/Gatsby-Portfolio/main/src/images/Image%201.jpg",
       "https://bchiang7.github.io/v2/img/portfolio/crowddj/crowddj-mobile.jpg",
     ],
     links: ['https://github.com/ahmedsmrt/Sabr-Natr', 'https://sabr-nature-blog.netlify.app/' ]
