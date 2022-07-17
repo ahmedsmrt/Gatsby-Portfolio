@@ -25,7 +25,7 @@ export const ProjectText = [
         "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%204.jpg?raw=true",
         "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%205.jpg?raw=true",
       ],
-      links: ['https://github.com/ahmedsmrt/Sabr-Natr', 'https://sabr-nature-blog.netlify.app/' ]
+      links: ['https://github.com/ahmedsmrt/chat-too-much', 'https://chat-too-much-11vudry8q-ahmedsmrt.vercel.app/login' ]
   },
   {
     id: 3,
@@ -55,7 +55,7 @@ export const ProjectText = [
   },
   {
     id: 5,
-    title: "Project 5",
+    title: "Portfolio Moguls",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra tellus ac lacus semper ullamcorper. Duis commodo bibendum eros, consectetur volutpat ex tincidunt vel. Nam augue est, fringilla in tempus sed, venenatis nec ante. Donec auctor ornare justo id convallis",
     languages: ["Javascript", "Express", "Css", "Node"],
@@ -64,7 +64,7 @@ export const ProjectText = [
         "https://bchiang7.github.io/v2/img/portfolio/crowddj/crowddj-tablet.jpg",
         "https://bchiang7.github.io/v2/img/portfolio/crowddj/crowddj-mobile.jpg",
       ],
-      links: ['https://github.com/ahmedsmrt/Sabr-Natr', 'https://sabr-nature-blog.netlify.app/' ]
+      links: ['https://github.com/ahmedsmrt/Portfolio-Moguls.github.io', 'https://ahmedsmrt.github.io/Portfolio-Moguls.github.io/' ]
   },
   {
     id: 6,
@@ -73,9 +73,9 @@ export const ProjectText = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra tellus ac lacus semper ullamcorper. Duis commodo bibendum eros, consectetur volutpat ex tincidunt vel. Nam augue est, fringilla in tempus sed, venenatis nec ante. Donec auctor ornare justo id convallis",
     languages: ["Javascript", "Html", "Css", "Php"],
     screenshots: [
-        "https://bchiang7.github.io/v2/img/portfolio/crowddj/crowddj.jpg",
-        "https://bchiang7.github.io/v2/img/portfolio/crowddj/crowddj-tablet.jpg",
-        "https://bchiang7.github.io/v2/img/portfolio/crowddj/crowddj-mobile.jpg",
+        "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%207.jpg?raw=true",
+        "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%208.jpg?raw=true",
+        "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2011.jpg?raw=true",
       ],
       links: ['https://github.com/ahmedsmrt/Web-Portfolio', 'https://ahmedsmrt.github.io/Web-Portfolio/' ]
   },
