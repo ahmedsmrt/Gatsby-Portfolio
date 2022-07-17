@@ -127,6 +127,7 @@ const ProjectBoxContainer = styled.div`
 
   .img-sm {
     width: 15%;
+    max-height: 75%;
     right: 1rem;
     z-index: 3;
     box-shadow: 0 5px 5px 0 rgb(0 0 0 / 75%);
@@ -162,7 +163,7 @@ export default function ProjectWrapper({ id , isReverse }) {
         <h2>{ProjectText[id].title}</h2>
         <div className="btn-container">
           <a href={ProjectText[id].links[1]} className="btn btn-green" target="_blank" rel="no-referrer">Live</a>
-          <a href={ProjectText[id].links[0]} className="btn btn-orange" >Code</a>
+          <a href={ProjectText[id].links[0]} className="btn btn-orange" target="_blank" rel="no-referrer">Code</a>
         </div>
       </div>
       <div className="project-content">
