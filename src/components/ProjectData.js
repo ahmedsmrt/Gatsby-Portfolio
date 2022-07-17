@@ -60,8 +60,8 @@ export const ProjectText = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra tellus ac lacus semper ullamcorper. Duis commodo bibendum eros, consectetur volutpat ex tincidunt vel. Nam augue est, fringilla in tempus sed, venenatis nec ante. Donec auctor ornare justo id convallis",
     languages: ["Javascript", "Express", "Css", "Node"],
     screenshots: [
-        "https://bchiang7.github.io/v2/img/portfolio/crowddj/crowddj.jpg",
-        "https://bchiang7.github.io/v2/img/portfolio/crowddj/crowddj-tablet.jpg",
+        "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2012.jpg?raw=true",
+        "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2013.jpg?raw=true",
         "https://bchiang7.github.io/v2/img/portfolio/crowddj/crowddj-mobile.jpg",
       ],
       links: ['https://github.com/ahmedsmrt/Portfolio-Moguls.github.io', 'https://ahmedsmrt.github.io/Portfolio-Moguls.github.io/' ]
