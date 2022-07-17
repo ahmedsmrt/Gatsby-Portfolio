@@ -162,7 +162,7 @@ export default function ProjectWrapper({ id , isReverse }) {
         <h2>{ProjectText[id].title}</h2>
         <div className="btn-container">
           <a href={ProjectText[id].links[1]} className="btn btn-green" target="_blank" rel="no-referrer">Live</a>
-          <a href={ProjectText[id].links[0]} className="btn btn-orange" target="_blank" rel="no-referrer">Code</a>
+          <a href={ProjectText[id].links[0]} className="btn btn-orange" >Code</a>
         </div>
       </div>
       <div className="project-content">
