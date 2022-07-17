@@ -16,14 +16,14 @@ export const ProjectText = [
   },
   {
     id: 2,
-    title: "Project 2",
+    title: "Talk To Me Nice",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra tellus ac lacus semper ullamcorper. Duis commodo bibendum eros, consectetur volutpat ex tincidunt vel. Nam augue est, fringilla in tempus sed, venenatis nec ante. Donec auctor ornare justo id convallis",
-    languages: ["Javascript", "Express", "Css", "Node"],
+    languages: ["Javascript", "Html", "Css", "React", "Firebase"],
     screenshots: [
         "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%203.jpg?raw=true",
         "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%204.jpg?raw=true",
-        "https://bchiang7.github.io/v2/img/portfolio/crowddj/crowddj-mobile.jpg",
+        "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%205.jpg?raw=true",
       ],
       links: ['https://github.com/ahmedsmrt/Sabr-Natr', 'https://sabr-nature-blog.netlify.app/' ]
   },
