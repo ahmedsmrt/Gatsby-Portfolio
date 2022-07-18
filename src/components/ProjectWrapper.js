@@ -24,7 +24,7 @@ const ProjectBoxContainer = styled.div`
   }
 
   .project-title-container h2 {
-    font-weight: 500;
+    font-weight: 300;
     line-height: 1.75rem;
   }
 
