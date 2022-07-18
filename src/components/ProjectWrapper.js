@@ -39,7 +39,7 @@ const ProjectBoxContainer = styled.div`
     border: solid 2px #efecea;
     color: #efecea;
     display: block;
-    font-family: "Poiret One", cursive;
+    font-family: quasimoda, sans-serif;
     font-size: 0.8em;
     font-weight: 900;
     border-radius: 2px;
