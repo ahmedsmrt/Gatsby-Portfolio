@@ -9,6 +9,7 @@ const theme = {};
 const GlobalStyles = createGlobalStyle`
   :root {
     scroll-behavior: smooth;
+    overflow-x: hidden;
   }
 
  body{
@@ -50,6 +51,7 @@ body::-webkit-scrollbar-thumb
   max-width: 1600px;
   min-height: 100vh;
   margin: 0 auto;
+  overflow-x: hidden;
  }
 
  .footer-text {

@@ -15,7 +15,7 @@ const HeroStyles = styled.section`
 
   section {
     margin: 0 auto;
-    padding: 0 25px;
+    padding: 0 45px;
   }
 
   div {
@@ -34,7 +34,7 @@ const HeroStyles = styled.section`
 
   h1 {
     font-family:  proxima-nova, sans-serif;
-    font-size: 45px;
+    font-size: clamp(.5rem, 8vw, 3rem);
     font-weight: 100;
     font-style: normal;
     margin: 0;
@@ -42,7 +42,7 @@ const HeroStyles = styled.section`
 
 
   h4 {
-    font-size: 1.5rem;
+    font-size: clamp(.3rem, 8vw, 1.5rem);
     margin-bottom: .75em;
     font-weight: 100;
   }
@@ -50,7 +50,7 @@ const HeroStyles = styled.section`
   h3 {
     padding: 0;
     font-weight: 100;
-    font-size:1.1rem;
+    font-size: clamp(.5rem, 8vw, 1.1rem);
   }
 
   .special_btn {
@@ -106,6 +106,24 @@ const HeroStyles = styled.section`
     height: 6%;
     background-color: #346751;
 }
+
+@media (max-width: 768px) {
+
+    h4 {
+        margin: 10px 0;
+        font-size: .95rem;
+    }
+
+    h3 {
+        font-size: .95rem;
+    }
+
+    .special_btn {
+        top: 50px;
+        font-size: .95rem;
+    }
+
+  }
 
 `;
 

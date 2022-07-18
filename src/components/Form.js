@@ -164,7 +164,7 @@ const StyledForm = styled.div`
     color: #474544;
     display: block;
     font-family: "Poiret One", cursive;
-    font-size: 01em;
+    font-size: 1em;
     font-weight: bold;
     border-radius: 5px;
     padding: 12px 30px;
@@ -196,6 +196,27 @@ const StyledForm = styled.div`
     top: 0px;
     left: 0px;
   }
+
+
+  @media (max-width: 768px) {
+
+    width: 115%;
+
+    #contact_form_wrapper {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    border: 15px;
+    top: 165px;
+  }
+
+
+    #form_btn {
+        padding: 6px 15px;
+    }
+
+}
+
 `
 
 export default function Form() {

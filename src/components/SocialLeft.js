@@ -9,6 +9,12 @@ export const StyledSocialDiv = styled.div`
     bottom: 0;
     left: 60px;
 
+
+    @media (max-width: 768px) {
+    display: none;
+}
+  
+
     ul {
         position: relative;
         display: flex;

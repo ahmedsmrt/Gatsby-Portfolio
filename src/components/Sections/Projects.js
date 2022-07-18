@@ -19,7 +19,7 @@ const ProjectsSectionStyles = styled.section`
     position: relative;
     top: -100px;
     width: 100%;
-    padding: 200px 0;
+    padding: 200px 0 0 0;
     font-family: proxima-nova, sans-serif;
   }
 

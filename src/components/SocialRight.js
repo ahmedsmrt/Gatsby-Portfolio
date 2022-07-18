@@ -11,6 +11,11 @@ export const StyledSocialDivRight = styled.div`
     right: 50px;
     width: 13px;
 
+    
+    @media (max-width: 768px) {
+    display: none;
+}
+  
 
     a {
       text-decoration: none;

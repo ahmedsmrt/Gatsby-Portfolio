@@ -27,7 +27,7 @@ const ContactSectionStyles = styled.section`
   }
 
   .title-bar h2 {
-    font-size: 2.75rem;
+    font-size: clamp(.5rem, 8vw, 2.75rem);
     margin: 0;
     font-family: proxima-nova, sans-serif;
   }
@@ -48,6 +48,20 @@ const ContactSectionStyles = styled.section`
     top: 45px;
   }
 
+  @media (max-width: 768px) {
+
+    .title-bar {
+      width: 100%;
+    }
+
+    .title-bar h2 {
+    margin: 10px 0;
+    font-size: 1.75rem;
+    line-height: 2rem;
+    text-align: center;
+}
+
+}
 
 `;
 

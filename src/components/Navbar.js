@@ -13,6 +13,7 @@ const StyledHeader = styled.header`
     width:100%;
     display: flex;
     align-items: center;
+  
 
   nav {
     display: flex;
@@ -66,6 +67,12 @@ const StyledHeader = styled.header`
     color: #efecea;
     transform: scale(.95);
   }
+
+  @media (max-width: 768px) {
+    nav  ul{
+        display: none;
+    }
+}
 `;
 
 
