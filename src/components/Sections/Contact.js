@@ -63,6 +63,15 @@ const ContactSectionStyles = styled.section`
 
 }
 
+  @media (min-width: 819px) { 
+
+    .title-bar h2 {
+    margin: 10px 0;
+    font-size: 2.55rem;
+    line-height: 2rem;
+    text-align: center;
+}
+  }
 `;
 
 export default function Contact() {

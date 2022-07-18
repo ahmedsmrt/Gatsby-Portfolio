@@ -96,6 +96,17 @@ const AboutSectionStyles = styled.section`
     display: none;
   }
 
+  @media (min-width: 819px) { 
+    .text-wrap {
+      left: 120px;
+    }
+
+    .svg-wrapper {
+        left: 60px;
+    }
+  }
+
+
   @media (max-width: 768px) {
     .about-wrapper {
       flex-direction: column;

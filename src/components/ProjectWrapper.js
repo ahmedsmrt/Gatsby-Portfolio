@@ -137,6 +137,46 @@ const ProjectBoxContainer = styled.div`
     bottom: 6px;
     border-radius: 2px;
   }
+
+  @media (max-width: 768px) {
+    
+  .img-lg {
+    width: 70%;
+    left: 0;
+    z-index: 1;
+    border: 0;
+    position: relative;
+    right: 0;
+    bottom: 0;
+    border-radius: 2px;
+    box-shadow: 0 5px 10px 0 rgb(0 0 0 / 75%);
+  }
+
+  .img-md {
+    width: 27%;
+    right: 14%;
+    z-index: 2;
+    border: 0;
+    position: relative;
+    bottom: 0;
+    border-radius: 2px;
+    box-shadow: 0 5px 10px 0 rgb(0 0 0 / 75%);
+  }
+
+  .img-sm {
+    width: 20%;
+    max-height: 75%;
+    right: 1rem;
+    z-index: 3;
+    box-shadow: 0 5px 5px 0 rgb(0 0 0 / 75%);
+    border: 0;
+    position: absolute;
+    right: 20px;
+    bottom: 6px;
+    border-radius: 2px;
+  }
+  }
+
 `;
 
 export default function ProjectWrapper({ id , isReverse }) {

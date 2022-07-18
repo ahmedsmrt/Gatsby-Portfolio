@@ -15,6 +15,16 @@ const StyledHeader = styled.header`
     align-items: center;
   
 
+ #logo {
+    transition: .5s;
+    transform: scale(.65);
+ }
+
+ #logo:hover {
+    transition: .5s;
+    stroke: #B88367;
+ }
+
   nav {
     display: flex;
     justify-content: space-between;
@@ -72,6 +82,19 @@ const StyledHeader = styled.header`
     nav  ul{
         display: none;
     }
+
+    #logo {
+        position: relative;
+        left: -30px;
+    }
+
+
+  }
+
+    @media (min-width: 819px) and (max-width: 1020px) {
+    nav  ul{
+        margin-right: 25px;
+    }
 }
 `;
 
@@ -81,7 +104,11 @@ export default function Navbar() {
     <StyledHeader>
       <nav>
         <Link to="/">
-          <h1>Sabr Dev</h1>
+        <svg id="logo" xmlns="http://www.w3.org/2000/svg" width="54" height="82" viewBox="0 0 54 82">
+  <text id="G" transform="translate(11 22)" fill="#8fb3a3" font-size="50" font-family="Quasimoda-ExtraLight, Quasimoda" font-weight="200"><tspan x="0" y="47">G</tspan></text>
+  <text id="A" fill="#8fb3a3" font-size="50" font-family="Quasimoda-ExtraLight, Quasimoda" font-weight="200"><tspan x="0" y="47">A</tspan></text>
+</svg>
+
         </Link>
         <ul>
           <li>

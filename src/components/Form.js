@@ -200,7 +200,7 @@ const StyledForm = styled.div`
 
   @media (max-width: 768px) {
 
-    width: 115%;
+    width: 85%;
 
     #contact_form_wrapper {
     position: relative;
@@ -223,6 +223,33 @@ const StyledForm = styled.div`
   }
 
 }
+
+@media (max-width: 480px) {
+
+width: 105%;
+
+#contact_form_wrapper {
+position: relative;
+width: 100%;
+margin: 0 auto;
+border: 15px;
+top: 165px;
+}
+
+
+#form_btn {
+    padding: 6px 15px;
+}
+
+input[type="text"],
+[type="email"],
+select,
+textarea {
+font-size: .75rem;
+}
+
+}
+
 
 `
 
