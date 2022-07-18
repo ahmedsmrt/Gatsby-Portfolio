@@ -39,7 +39,7 @@ const ProjectBoxContainer = styled.div`
     border: solid 2px #efecea;
     color: #efecea;
     display: block;
-    font-family: quasimoda, sans-serif;
+    font-family: proxima-nova, sans-serif;
     font-size: 0.8em;
     font-weight: 900;
     border-radius: 2px;
@@ -174,6 +174,10 @@ const ProjectBoxContainer = styled.div`
     right: 20px;
     bottom: 6px;
     border-radius: 2px;
+  }
+
+  .project-title-container {
+    font-size: 1.2em;
   }
   }
 

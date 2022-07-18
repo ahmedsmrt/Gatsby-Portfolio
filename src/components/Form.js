@@ -59,7 +59,7 @@ const StyledForm = styled.div`
     color: #EFECEA;
     font-size: 1em;
     font-weight: 900;
-    font-family: quasimoda, sans-serif;
+    font-family: proxima-nova, sans-serif;
     letter-spacing: 1px;
     margin: 0em 0 0.75em 0;
     padding: 0 0 0.875em 0;
@@ -99,7 +99,7 @@ const StyledForm = styled.div`
     outline: none;
     -moz-appearance: none;
     -webkit-appearance: none;
-    font-family: quasimoda, sans-serif;
+    font-family: proxima-nova, sans-serif;
     font-weight: 900;
     cursor: pointer;
   }
@@ -163,7 +163,7 @@ const StyledForm = styled.div`
     border: solid 2px #EFECEA;
     color: #474544;
     display: block;
-    font-family: quasimoda, sans-serif;
+    font-family: proxima-nova, sans-serif;
     font-size: 1em;
     font-weight: bold;
     border-radius: 5px;
