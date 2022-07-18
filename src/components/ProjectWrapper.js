@@ -23,6 +23,15 @@ const ProjectBoxContainer = styled.div`
     flex-wrap: wrap;
   }
 
+  .project-title-container h2 {
+    font-weight: 500;
+    line-height: 1.75rem;
+  }
+
+  .project-title-container p {
+    font-weight: 100;
+  }
+
   .reverse {
     flex-direction: row-reverse !important;
   }
@@ -39,9 +48,9 @@ const ProjectBoxContainer = styled.div`
     border: solid 2px #efecea;
     color: #efecea;
     display: block;
-    font-family: proxima-nova, sans-serif;
+    font-family: quasimoda, sans-serif;
     font-size: 0.8em;
-    font-weight: 900;
+    font-weight: 300;
     border-radius: 2px;
     padding: 5px 20px;
     cursor: pointer;

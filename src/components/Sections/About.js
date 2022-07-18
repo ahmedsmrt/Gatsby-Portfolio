@@ -41,6 +41,7 @@ const AboutSectionStyles = styled.section`
   }
 
   .title-bar h2 {
+    font-weight: 500;
     margin: 0;
     font-size: 1.75rem;
     font-family: proxima-nova, sans-serif;
@@ -65,7 +66,7 @@ const AboutSectionStyles = styled.section`
     flex: 0.65;
     margin: 30px 15px;
     position: relative;
-    font-weight: 300;
+    font-weight: 100;
     left: 160px;
   }
 
@@ -110,6 +111,7 @@ const AboutSectionStyles = styled.section`
   @media (max-width: 768px) {
     .about-wrapper {
       flex-direction: column;
+      width: 75%;
     }
 
     .face-one {
@@ -235,8 +237,8 @@ export default function About() {
                 transform="translate(-1.509 126.03)"
                 fill="none"
                 stroke="#efecea"
-                stroke-miterlimit="10"
-                stroke-width="2"
+                strokeMiterlimit="10"
+                strokeWidth="2"
               />
               <path
                 id="Path_45"

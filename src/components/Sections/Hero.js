@@ -35,7 +35,7 @@ const HeroStyles = styled.section`
   h1 {
     font-family:  proxima-nova, sans-serif;
     font-size: clamp(.5rem, 8vw, 3rem);
-    font-weight: 100;
+    font-weight: 500;
     font-style: normal;
     margin: 0;
   }
@@ -63,6 +63,7 @@ const HeroStyles = styled.section`
     border-radius: 0.25rem;
     font-family: quasimoda, sans-serif;
     font-size: 1.15rem;
+    font-weight: 100;
     background-color: transparent;
     cursor: pointer;
     color: #EFECEA;

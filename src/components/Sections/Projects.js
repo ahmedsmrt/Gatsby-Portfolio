@@ -13,7 +13,7 @@ const ProjectsSectionStyles = styled.section`
   -webkit-box-align: center;
   flex-direction: column;
   align-items: flex-start;
-  padding: 0 25px;
+  padding: 0 25px 0 0;
 
   section {
     position: relative;
@@ -34,6 +34,7 @@ const ProjectsSectionStyles = styled.section`
 
   .title-bar h2 {
     font-size: 1.75rem;
+    font-weight: 500;
     margin: 0;
     font-family: proxima-nova, sans-serif;
   }

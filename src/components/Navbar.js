@@ -1,6 +1,8 @@
 import React from "react";
 import { Link } from "gatsby";
 import styled from "styled-components";
+import MobileMenu from "./MobileMenu";
+
 
 const StyledHeader = styled.header`
 
@@ -14,6 +16,10 @@ const StyledHeader = styled.header`
     display: flex;
     align-items: center;
   
+
+    #logo-link {
+        text-decoration: none;
+    }
 
  #logo {
     transition: .5s;
@@ -33,14 +39,14 @@ const StyledHeader = styled.header`
 
  }
 
-  nav {
+  #desktop-nav {
     display: flex;
     justify-content: space-between;
     width: 94%;
 
   }
 
-  nav ul {
+  #desktop-nav ul {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -48,7 +54,7 @@ const StyledHeader = styled.header`
     list-style: none;
   }
 
-  nav ul li {
+  #desktop-nav ul li {
     border: 1px solid #efecea;
     border-radius: 50px;
     padding: 3px 8px;
@@ -59,7 +65,7 @@ const StyledHeader = styled.header`
     transition: 0.2s;
   }
 
-  nav ul li a {
+  #desktop-nav ul li a {
     position: relative;
     color: #071624;
     display: flex;
@@ -76,18 +82,19 @@ const StyledHeader = styled.header`
     transition: 0.3s;
   }
 
-  nav ul li:hover {
+  #desktop-nav ul li:hover {
     border: 1px solid #346751;
   }
 
-  nav ul li:hover a {
+  #desktop-nav ul li:hover a {
     background: #8fb3a3;
     color: #efecea;
     transform: scale(.95);
   }
 
+ 
   @media (max-width: 768px) {
-    nav  ul{
+    #desktop-nav  ul{
         display: none;
     }
 
@@ -100,7 +107,7 @@ const StyledHeader = styled.header`
   }
 
     @media (min-width: 819px) and (max-width: 1020px) {
-    nav  ul{
+        #desktop-nav  ul{
         margin-right: 25px;
     }
 }
@@ -108,15 +115,15 @@ const StyledHeader = styled.header`
 
 
 export default function Navbar() {
+
   return (
     <StyledHeader>
-      <nav>
-        <Link to="/">
+      <nav id="desktop-nav">
+        <Link to="/" id="logo-link">
         <svg id="logo" xmlns="http://www.w3.org/2000/svg" width="54" height="82" viewBox="0 0 54 82">
-  <text id="G" transform="translate(11 22)" fill="#8fb3a3" font-size="50" font-family="Quasimoda-ExtraLight, Quasimoda" font-weight="200"><tspan x="0" y="47">G</tspan></text>
-  <text id="A" fill="#8fb3a3" font-size="50" font-family="Quasimoda-ExtraLight, Quasimoda" font-weight="200"><tspan x="0" y="47">A</tspan></text>
+  <text id="G" transform="translate(11 22)" fill="#8fb3a3" fontSize="50" fontFamily="Quasimoda-ExtraLight, Quasimoda" fontWeight="200"><tspan x="0" y="47">G</tspan></text>
+  <text id="A" fill="#8fb3a3" fontSize="50" fontFamily="Quasimoda-ExtraLight, Quasimoda" fontWeight="200"><tspan x="0" y="47">A</tspan></text>
 </svg>
-
         </Link>
         <ul>
           <li>
@@ -133,6 +140,7 @@ export default function Navbar() {
           </li>
         </ul>
       </nav>
+      <MobileMenu ></ MobileMenu>
     </StyledHeader>
   );
 }

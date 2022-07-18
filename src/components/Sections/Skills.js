@@ -32,6 +32,8 @@ const SkillsSectionStyles = styled.section`
 
   .title-bar h2 {
     font-size: 1.75rem;
+    font-weight: 500;
+
     margin: 0;
     font-family: proxima-nova, sans-serif;
   }
@@ -50,7 +52,7 @@ const SkillsSectionStyles = styled.section`
     display: flex;
     margin: 0 auto;
     justify-content: space-around;
-    padding: 100px 100px;
+    padding: 100px 100px 100px 50px;
     column-gap: 10px;
   }
 
@@ -69,6 +71,7 @@ const SkillsSectionStyles = styled.section`
   .skill-section h3 {
     position: relative;
     font-size: 1.3rem;
+    font-weight: 500;
     font-family: proxima-nova, sans-serif;
   }
 
@@ -84,6 +87,7 @@ const SkillsSectionStyles = styled.section`
   }
 
   .skill-section p {
+    font-weight: 100;
     margin: 5px 0px;
   }
 
