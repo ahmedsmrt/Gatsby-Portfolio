@@ -4,6 +4,7 @@ import { Link } from "gatsby";
 import styled from "styled-components";
 
 const MobileNavStyles = styled.div`
+will-change: transform; 
   position: relative;
   display: none;
   flex-direction: column;
@@ -30,18 +31,21 @@ const MobileNavStyles = styled.div`
   }
 
   span:nth-child(1) {
+    will-change: transform; 
     background: ${({nav}) => nav ? "#071624" : "#b88367"};
     transform: ${({nav}) => nav ? "rotate(135deg) translateY(-.25px)" : "rotate(0deg)"};
 
   }
 
   span:nth-child(2) {
+    will-change: transform; 
     width: ${({nav}) => nav ? "30px" : "25px"};
     background: ${({nav}) => nav ? "#071624" : "#b88367"};
     transform: ${({nav}) => nav ? "rotate(45deg)" : "rotate(0deg)"};
   }
 
   span:nth-child(3) {
+    will-change: transform; 
     width: 20px;
     display: ${({nav}) => nav ? "none" : "inherit"};
   }

@@ -144,6 +144,35 @@ const AboutSectionStyles = styled.section`
     text-align: center;
 }
   }
+
+
+  @media (max-width: 480px) {
+
+
+    .face-one {
+      display: none;
+    }
+
+    .text-wrap {
+      left: -5px;
+      width: 100%;
+    }
+
+    .face-two {
+      display: block;
+      position: relative;
+      left: -40px;
+    }
+
+    .hello-world-text {
+  
+      left: 90px;
+     
+    }
+
+
+  }
+
 `;
 
 // const helloWorld = function () {
