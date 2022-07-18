@@ -18,6 +18,7 @@ const StyledHeader = styled.header`
  #logo {
     transition: .5s;
     transform: scale(.65);
+    text-decoration: none;
  }
 
  #logo:hover {
