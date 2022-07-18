@@ -10,7 +10,7 @@ const StyledForm = styled.div`
     width: 100%;
     margin: 0 auto;
     border: 15px;
-    top: 185px;
+    top: 75px;
   }
 
   form {
@@ -204,7 +204,7 @@ const StyledForm = styled.div`
     width: 100%;
     margin: 0 auto;
     border: 15px;
-    top: 165px;
+    top: 0px;
   }
 
 
@@ -230,7 +230,7 @@ position: relative;
 width: 100%;
 margin: 0 auto;
 border: 15px;
-top: 165px;
+top: 25px;
 }
 
 

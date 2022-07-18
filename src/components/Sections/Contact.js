@@ -6,7 +6,7 @@ const ContactSectionStyles = styled.section`
   margin: 0 auto;
   position: relative;
   max-width: 1145px;
-  min-height: 100vh;
+  max-height: 100vh;
   display: flex;
   justify-content: center;
   -webkit-box-align: center;
@@ -23,11 +23,11 @@ const ContactSectionStyles = styled.section`
     justify-content: center;
     align-items: center;
     gap: 15px;
-    top: 225px;
+    top: 150px;
   }
 
   .title-bar h2 {
-    font-size: clamp(.5rem, 8vw, 2.75rem);
+    font-size: clamp(0.5rem, 8vw, 2.75rem);
     margin: 0;
     font-family: proxima-nova, sans-serif;
   }
@@ -40,37 +40,39 @@ const ContactSectionStyles = styled.section`
     background: #707070;
   }
 
-
   svg {
     max-width: 50%;
     position: relative;
     left: 30%;
-    top: 45px;
   }
 
   @media (max-width: 768px) {
-
     .title-bar {
       width: 100%;
+      top: 0px;
     }
 
     .title-bar h2 {
-    margin: 10px 0;
-    font-size: 1.75rem;
-    line-height: 2rem;
-    text-align: center;
-}
+      margin: 10px 0;
+      font-size: 1.75rem;
+      line-height: 2rem;
+      text-align: center;
+    }
+  }
 
-}
-
-  @media (min-width: 819px) { 
-
+  @media (min-width: 769px) {
     .title-bar h2 {
-    margin: 10px 0;
-    font-size: 2.55rem;
-    line-height: 2rem;
-    text-align: center;
-}
+      margin: 10px 0;
+      font-size: 2.55rem;
+      line-height: 2rem;
+      text-align: center;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .title-bar {
+      top: 125px;
+    }
   }
 `;
 
@@ -84,7 +86,7 @@ export default function Contact() {
       </div>
       <Form />
 
-    <svg
+      <svg
         xmlns="http://www.w3.org/2000/svg"
         width="692.79"
         height="408.7"
@@ -119,7 +121,6 @@ export default function Contact() {
           />
         </g>
       </svg>
-
     </ContactSectionStyles>
   );
 }

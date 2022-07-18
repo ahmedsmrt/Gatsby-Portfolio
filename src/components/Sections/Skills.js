@@ -103,6 +103,15 @@ const SkillsSectionStyles = styled.section`
       margin: 0 auto;
     }
   }
+
+  @media (max-width: 480px) {
+    .skills-wrapper {
+      flex-direction: column;
+      margin: 0 auto;
+      padding: 25px 25px 0px 20px;
+    }
+  }
+
 `;
 
 export default function Skills() {

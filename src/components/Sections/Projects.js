@@ -7,7 +7,7 @@ const ProjectsSectionStyles = styled.section`
   margin: 0 auto;
   position: relative;
   max-width: 1145px;
-  min-height: 100vh;
+  max-height: 100%;
   display: flex;
   justify-content: center;
   -webkit-box-align: center;
