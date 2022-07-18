@@ -24,6 +24,13 @@ const StyledHeader = styled.header`
  #logo:hover {
     transition: .5s;
     stroke: #B88367;
+    text-decoration: none;
+
+ }
+
+ #logoa:-webkit-any-link {
+    text-decoration: none;
+
  }
 
   nav {
