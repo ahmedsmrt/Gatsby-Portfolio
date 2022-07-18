@@ -85,8 +85,8 @@ const MobileNavStyles = styled.div`
 const MobileNavLinkStyles = styled.div`
   position: fixed;
   background-color: #efecea;
-  height: 40%;
-  width: 175px;
+  height: 65%;
+  width: 40%;
   right: 0;
   z-index: 2;
   border-bottom-left-radius: 35px;
@@ -107,7 +107,7 @@ const MobileNavLinkStyles = styled.div`
   nav ul {
     display: flex;
     flex-direction: column;
-    gap: 50px;
+    gap: 30px;
     z-index: 6;
     list-style: none;
     position: relative;
