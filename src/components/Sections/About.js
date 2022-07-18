@@ -123,6 +123,13 @@ const AboutSectionStyles = styled.section`
       font-weight: 400;
       color: #8fb3a3;
     }
+
+    .title-bar h2 {
+    margin: 10px 0;
+    font-size: 1.75rem;
+    line-height: 2rem;
+    text-align: center;
+}
   }
 `;
 

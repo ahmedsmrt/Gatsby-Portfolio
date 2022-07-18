@@ -215,6 +215,13 @@ const StyledForm = styled.div`
         padding: 6px 15px;
     }
 
+    input[type="text"],
+  [type="email"],
+  select,
+  textarea {
+    font-size: .75rem;
+  }
+
 }
 
 `

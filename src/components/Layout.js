@@ -89,6 +89,14 @@ body::-webkit-scrollbar-thumb
     opacity: 1;
   }
 
+  @media (max-width: 768px) {
+
+    .footer-text {
+
+      font-size: .8rem;
+    }
+  }
+
 `;
 
 export default function Layout({ children }) {
