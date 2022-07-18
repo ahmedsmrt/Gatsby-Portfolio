@@ -8,7 +8,7 @@ const MobileNavStyles = styled.div`
   display: none;
   flex-direction: column;
   gap: 7px;
-  left: -60px;
+  left: -70px;
   top: -10px;
   align-items: flex-end;
   cursor: pointer;
