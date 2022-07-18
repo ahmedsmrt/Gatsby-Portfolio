@@ -153,16 +153,16 @@ export default function MobileMenu() {
         <nav>
           <ul>
             <li>
-              <Link to="#about">About</Link>
+              <Link to="#about" nav={nav} onClick={() => showNav(!nav)}>About</Link>
             </li>
             <li>
-              <Link to="#skills">Skills</Link>
+              <Link to="#skills" nav={nav} onClick={() => showNav(!nav)}>Skills</Link>
             </li>
             <li>
-              <Link to="#projects">Projects</Link>
+              <Link to="#projects" nav={nav} onClick={() => showNav(!nav)}>Projects</Link>
             </li>
             <li>
-              <Link to="#contact">Contact</Link>
+              <Link to="#contact" nav={nav} onClick={() => showNav(!nav)}>Contact</Link>
             </li>
           </ul>
         </nav>
