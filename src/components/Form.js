@@ -265,7 +265,7 @@ export default function Form() {
             <input
               type="hidden"
               name="_next"
-              value="https://sabrdev.netlify.app/subsuccess.html"
+              value="https://ahmedgasim.netlify.app/"
             />
             <input type="hidden" name="_captcha" value="false" />
             <input
