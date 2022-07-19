@@ -16,6 +16,7 @@ module.exports = {
         typekit: {
           id: process.env.TYPEKIT_ID,
         },
+        icon: 'src/images/faviconIcon.png',
       },
     },
   ],

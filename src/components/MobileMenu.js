@@ -134,7 +134,7 @@ const MobileNavLinkStyles = styled.div`
     position: absolute;
     border: 1px solid #b88367;
     left: 25px;
-    transform: translateY(5px);
+    transform: translateY(9px);
     border-radius: 50%;
     width: 6px;
     height: 6px;
