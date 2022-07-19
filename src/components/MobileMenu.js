@@ -53,36 +53,7 @@ will-change: transform;
   @media (max-width: 768px) {
     display: flex;
 
-    .mobile-menu-animate-div {
-      position: relative;
-      border: 1px solid #b88367;
-      border-radius: 50%;
-      width: 30px;
-      height: 30px;
-      display: flex;
-      justify-content: center;
-    }
-
-    .mobile-menu-animate-span {
-      transition: 0.3s;
-      position: absolute;
-      height: 1px;
-    }
-
-    .mobile-menu-animate-span-first {
-      transform: rotate(45deg);
-      background: #071624;
-    }
-
-    .mobile-menu-animate-span-second {
-      transform: rotate(135deg);
-      background: #071624;
-      width: 30px;
-    }
-
-    .mobile-menu-animate-span-third {
-      display: none;
-    }
+   
   }
 `;
 
@@ -94,7 +65,7 @@ const MobileNavLinkStyles = styled.div`
   right: 0;
   z-index: 2;
   border-bottom-left-radius: 35px;
-  display: flex;
+  display: none;
   justify-content: center;
   align-items: center;
   top: 0px;
@@ -102,6 +73,11 @@ const MobileNavLinkStyles = styled.div`
   transition: 0.4s;
 
  
+  @media (max-width: 768px) {
+    display: flex;
+
+   
+  }
 
   nav {
     position: relative;
