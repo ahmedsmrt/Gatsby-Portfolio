@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="39.929" height="24.878" viewBox="0 0 39.929 24.878">
-  <g id="Group_37" data-name="Group 37" transform="translate(-2818.157 -3657.513)">
-    <path id="Path_751" data-name="Path 751" d="M-.065,5.665a1,1,0,0,1-.981-.812A1,1,0,0,1-.252,3.682L25.908-1.339a1,1,0,0,1,1.171.794A1,1,0,0,1,26.285.625L.125,5.646A1,1,0,0,1-.065,5.665Z" transform="translate(2856.374 3662.271) rotate(135)" fill="#707070"/>
-    <path id="Path_752" data-name="Path 752" d="M26.162,6.022A1,1,0,0,1,25.972,6L-.189.982A1,1,0,0,1-.982-.189,1,1,0,0,1,.189-.982L26.349,4.039a1,1,0,0,1-.187,1.982Z" transform="translate(2823.123 3658.928) rotate(45)" fill="#707070"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="40.411" height="25.36" viewBox="0 0 40.411 25.36">
+  <g id="Group_37" data-name="Group 37" transform="translate(-2817.916 -3657.272)">
+    <path id="Path_751" data-name="Path 751" d="M-.064,4.664,26.1-.357" transform="translate(2856.374 3662.271) rotate(135)" fill="#efecea" stroke="#8fb3a3" stroke-linecap="round" stroke-width="2"/>
+    <path id="Path_752" data-name="Path 752" d="M0,0,26.161,5.022" transform="translate(2823.123 3658.928) rotate(45)" fill="#efecea" stroke="#8fb3a3" stroke-linecap="round" stroke-width="2"/>
   </g>
 </svg>
