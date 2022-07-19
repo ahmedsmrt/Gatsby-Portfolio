@@ -18,7 +18,7 @@ export const ProjectText = [
     id: 2,
     title: "Talk To Me Nice",
     description:
-      "This is a fun project where I got to explore of how to architect the backend with the frontend. It was a course inspired project that truly helps you put into scope what you need in order to create a full stack application. Check it out and Talk to me Nice!",
+      "This is a fun project where I got to explore how to architect the backend with the frontend. It was a course inspired project that truly helps you put into scope what you need in order to create a full stack application. Check it out and Talk to me Nice!",
     languages: ["Javascript", "Html", "Css", "React", "Firebase"],
     screenshots: [
         "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%203.jpg?raw=true",
