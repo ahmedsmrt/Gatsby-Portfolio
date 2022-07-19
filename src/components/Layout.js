@@ -112,7 +112,7 @@ export default function Layout({ children }) {
         </main>
       </div>
       <div className="footer-text">
-      &#169; Designed and Developed by Ahmed Gasim 2022
+      &#169; Devloped by Ahmed Gasim 2022
       </div>
     </ThemeProvider>
   );

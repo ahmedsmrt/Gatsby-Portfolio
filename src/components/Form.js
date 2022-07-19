@@ -93,7 +93,7 @@ const StyledForm = styled.div`
   }
 
   select {
-    background: url("https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-arrow-down-32.png")
+    background: url("https://raw.githubusercontent.com/ahmedsmrt/Gatsby-Portfolio/699f9e5b8e45014032d837a954cb4646f8489420/src/images/Group%2037.svg")
       no-repeat right;
     outline: none;
     -moz-appearance: none;
