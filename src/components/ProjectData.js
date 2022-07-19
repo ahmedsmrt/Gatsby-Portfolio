@@ -29,19 +29,6 @@ export const ProjectText = [
   },
   {
     id: 3,
-    title: "Project 3",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra tellus ac lacus semper ullamcorper. Duis commodo bibendum eros, consectetur volutpat ex tincidunt vel. Nam augue est, fringilla in tempus sed, venenatis nec ante. Donec auctor ornare justo id convallis",
-    languages: ["Javascript", "Express", "Css", "Node"],
-    screenshots: [
-        "https://bchiang7.github.io/v2/img/portfolio/crowddj/crowddj.jpg",
-        "https://bchiang7.github.io/v2/img/portfolio/crowddj/crowddj-tablet.jpg",
-        "https://bchiang7.github.io/v2/img/portfolio/crowddj/crowddj-mobile.jpg",
-      ],
-      links: ['https://github.com/ahmedsmrt/Sabr-Natr', 'https://sabr-nature-blog.netlify.app/' ]
-  },
-  {
-    id: 4,
     title: "Personal Website Ver 2",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra tellus ac lacus semper ullamcorper. Duis commodo bibendum eros, consectetur volutpat ex tincidunt vel. Nam augue est, fringilla in tempus sed, venenatis nec ante. Donec auctor ornare justo id convallis",
@@ -54,7 +41,7 @@ export const ProjectText = [
       links: ['https://github.com/ahmedsmrt/Sabr-Natr', 'https://sabr-nature-blog.netlify.app/' ]
   },
   {
-    id: 5,
+    id: 4,
     title: "Portfolio Moguls",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra tellus ac lacus semper ullamcorper. Duis commodo bibendum eros, consectetur volutpat ex tincidunt vel. Nam augue est, fringilla in tempus sed, venenatis nec ante. Donec auctor ornare justo id convallis",
@@ -67,7 +54,7 @@ export const ProjectText = [
       links: ['https://github.com/ahmedsmrt/Portfolio-Moguls.github.io', 'https://ahmedsmrt.github.io/Portfolio-Moguls.github.io/' ]
   },
   {
-    id: 6,
+    id: 5,
     title: "First Portfolio Website",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra tellus ac lacus semper ullamcorper. Duis commodo bibendum eros, consectetur volutpat ex tincidunt vel. Nam augue est, fringilla in tempus sed, venenatis nec ante. Donec auctor ornare justo id convallis",

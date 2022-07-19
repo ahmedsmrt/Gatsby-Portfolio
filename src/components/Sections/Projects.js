@@ -81,11 +81,9 @@ export default function Projects() {
           <div className="seperator"></div>
           <ProjectWrapper id="2" isReverse={false}/>
           <div className="seperator"></div>
-          <ProjectWrapper id="3" isReverse={true}/>
+          <ProjectWrapper id="3" isReverse={false}/>
           <div className="seperator"></div>
-          <ProjectWrapper id="4" isReverse={false}/>
-          <div className="seperator"></div>
-          <ProjectWrapper id="5" isReverse={true}/>
+          <ProjectWrapper id="4" isReverse={true}/>
         </div>
       </section>
     </ProjectsSectionStyles>
