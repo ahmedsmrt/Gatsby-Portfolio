@@ -18,7 +18,7 @@ export const ProjectText = [
     id: 2,
     title: "Sabr Natr",
     description:
-      "As a way to motivate myself to travel to one of my favorite countries (Japan), I built a travel blog website with limited functionality to get a hang of the framework!",
+      "As a way to motivate myself to travel to one of my favorite countries (Japan), I built a travel blog website with limited functionality to get a hang of React and Figma at the time!",
     languages: ["Javascript", "Html", "Css", "React", "Figma" , "Photoshop"],
     screenshots: [
       "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Sabr-large.jpg?raw=true",
@@ -31,7 +31,7 @@ export const ProjectText = [
     id: 3,
     title: "Talk To Me Nice",
     description:
-      "This is a fun project where I got to explore how to architect the backend with the frontend. It was a course inspired project that truly helps you put into scope what you need in order to create a full stack application. Check it out and Talk to me Nice!",
+      "This is a fun project where I got to explore how to architect the backend and connect it to the frontend. It was a course project that truly helped me put into scope what I needed in order to create a full stack application from a high level perspective. Check it out and Talk to me Nice!",
     languages: ["Javascript", "Html", "Css", "React", "Firebase"],
     screenshots: [
         "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%203.jpg?raw=true",
@@ -70,7 +70,7 @@ export const ProjectText = [
     id: 6,
     title: "First Portfolio Website",
     description:
-      "My first portfolio ever! After deciding to begin my journey to pursue a career in web development back in the end of 2018, this was the love child of three months worth of long nights in tutorial hell.",
+      "My first portfolio ever! After deciding to begin my journey to pursue a career in web development back in the end of 2018, this was the love child of three months worth of endless nights in tutorial hell.",
     languages: ["Javascript", "Html", "Css", "Php"],
     screenshots: [
         "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%207.jpg?raw=true",
