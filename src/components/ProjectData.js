@@ -3,9 +3,9 @@ import React from "react";
 export const ProjectText = [
   {
     id: 1,
-    title: "Google API Mini Style App",
+    title: "Google Fonts Stylin App",
     description:
-      "An little application of mine that I created to help eliminate some of the headache of finding matching font styles using the Google Font API.",
+      "An little application of mine that I created to help eliminate some of the headache of finding matching font styles during my design phase, using the Google Font API some react and a lot of patience I learned the ins and outs of this api in order to bring it to this simplistic UI.",
     languages: ["Javascript", "Html", "Css", "React", "Styled Components", "Rest AP"],
     screenshots: [
       "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2017.jpg?raw=true",
