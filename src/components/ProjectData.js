@@ -3,16 +3,16 @@ import React from "react";
 export const ProjectText = [
   {
     id: 1,
-    title: "Google Stylin",
+    title: "Google API Mini Style App",
     description:
-      "As a way to motivate myself to travel to one of my favorite countries (Japan), I built a travel blog website with limited functionality to get a hang of the framework!",
-    languages: ["Javascript", "Html", "Css", "React"],
+      "An little application of mine that I created to help eliminate some of the headache of finding matching font styles using the Google Font API.",
+    languages: ["Javascript", "Html", "Css", "React", "Styled Components", "Rest AP"],
     screenshots: [
       "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2017.jpg?raw=true",
       "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2016.jpg?raw=true",
       "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2018.jpg?raw=true",
     ],
-    links: ['https://github.com/ahmedsmrt/Google-Font-Comparison-App', 'https://sabr-nature-blog.netlify.app/' ]
+    links: ['https://github.com/ahmedsmrt/Google-Font-Comparison-App', 'https://googlecomparison.netlify.app/' ]
   },
   {
     id: 2,
