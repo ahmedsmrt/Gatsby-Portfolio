@@ -6,7 +6,7 @@ export const ProjectText = [
     title: "Google Fonts Stylin App",
     description:
       "An little application of mine that I created to help eliminate some of the headache of finding matching font styles during my design phase, using the Google Font API some react and a lot of patience I learned the ins and outs of this api in order to bring it to this simplistic UI.",
-    languages: ["Javascript", "Html", "Css", "React", "Styled Components", "Rest AP"],
+    languages: ["Javascript", "Html", "Css", "React", "Styled Components", "Rest API"],
     screenshots: [
       "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2017.jpg?raw=true",
       "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2016.jpg?raw=true",
