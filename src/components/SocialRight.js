@@ -9,7 +9,8 @@ export const StyledSocialDivRight = styled.div`
     position: fixed;
     bottom: 0;
     right: 50px;
-    width: 13px;
+    width: 13px;  
+    z-index: 10;
 
     
     @media (max-width: 768px) {

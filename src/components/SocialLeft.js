@@ -8,6 +8,7 @@ export const StyledSocialDiv = styled.div`
     position: fixed;
     bottom: 0;
     left: 60px;
+    z-index: 10;
 
 
     @media (max-width: 768px) {

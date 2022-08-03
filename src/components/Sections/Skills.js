@@ -149,7 +149,6 @@ export default function Skills() {
                   </div>
                   <div className="col-2">
                     <p>PHP</p>
-                    <p>MySQL</p>
                     <p>Liquid Script</p>
                   </div>
                 </div>
@@ -219,7 +218,6 @@ export default function Skills() {
                   </div>
                   <div className="col-2">
                     <p>Gatsby</p>
-                    <p>Next</p>
                     <p>Express</p>
                   </div>
                 </div>
