@@ -31,12 +31,12 @@ export const ProjectText = [
     id: 3,
     title: "Notes With Nuance Sign Up",
     description:
-      "This is a part of a larger personal project that I am building to help encourage journaling for mental health purposes. This mini project helps demonstrate handling form data and React hook and side effects management!",
+      "This is a part of a larger personal project that I am building to help encourage journaling to improve a persons mental clarity. This mini project helps demonstrate handling form data and React hook and side effects management!",
     languages: ["Javascript", "Html", "Css", "React", "Figma" , "Adobe XD"],
     screenshots: [
-      "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Sabr-large.jpg?raw=true",
-      "https://raw.githubusercontent.com/ahmedsmrt/Gatsby-Portfolio/main/src/images/Image%201.jpg",
-      "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%202.jpg?raw=true",
+      "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2019.jpg?raw=true",
+      "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2020.jpg?raw=true",
+      "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2021.jpg?raw=true",
     ],
     links: ['https://github.com/ahmedsmrt/nuanced-notes/tree/master/notes-with-nuances', 'https://nuancednotesverone.netlify.app/' ]
   },
