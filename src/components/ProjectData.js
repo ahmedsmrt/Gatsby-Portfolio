@@ -38,7 +38,7 @@ export const ProjectText = [
       "https://raw.githubusercontent.com/ahmedsmrt/Gatsby-Portfolio/main/src/images/Image%201.jpg",
       "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%202.jpg?raw=true",
     ],
-    links: ['https://github.com/ahmedsmrt/Sabr-Natr', 'https://sabr-nature-blog.netlify.app/' ]
+    links: ['https://github.com/ahmedsmrt/nuanced-notes/tree/master/notes-with-nuances', 'https://nuancednotesverone.netlify.app/' ]
   },
   {
     id: 4,
