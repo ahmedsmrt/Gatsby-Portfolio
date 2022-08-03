@@ -32,7 +32,7 @@ export const ProjectText = [
     title: "Notes With Nuance Sign Up",
     description:
       "This is a part of a larger personal project that I am building to help encourage journaling to improve a persons mental clarity. This mini project helps demonstrate handling form data and React hook and side effects management!",
-    languages: ["Javascript", "Html", "Css", "React", "Figma" , "Adobe XD"],
+    languages: ["Javascript", "Html", "Css", "React", "Styled Components", "Figma" , "Adobe XD"],
     screenshots: [
       "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2019.jpg?raw=true",
       "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2020.jpg?raw=true",
