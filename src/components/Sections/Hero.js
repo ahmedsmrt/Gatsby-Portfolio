@@ -73,7 +73,7 @@ const HeroStyles = styled.section`
   .special_btn::before {
     content: "";
     position: absolute;
-    bottom: 18%;
+    bottom: 11%;
     left: 6.5%;
     width: 51%;
     height: 5%;
