@@ -51,7 +51,7 @@ export const ProjectText = [
         "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%204.jpg?raw=true",
         "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%205.jpg?raw=true",
       ],
-      links: ['https://github.com/ahmedsmrt/chat-too-much', 'https://chat-too-much-11vudry8q-ahmedsmrt.vercel.app/login' ]
+      links: ['https://github.com/ahmedsmrt/chat-too-much', 'https://chat-too-much.vercel.app/login' ]
   },
   {
     id: 5,
