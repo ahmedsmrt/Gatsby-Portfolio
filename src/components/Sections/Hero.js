@@ -137,9 +137,9 @@ export default function Hero() {
           <h1>
             <span>Ahmed Gasim</span> and I am a . . .
           </h1>
-          <h3>Creative Front End Engineer</h3>
-          <h3>Junior Developer</h3>
-          <h3>UI & UX Enthusiast</h3>
+          <h3>Creative Software Engineer,</h3>
+          <h3>Front End Developer,</h3>
+          <h3>and UI & UX Enthusiast.</h3>
         </div>
         <a href="#about" className="special_btn">Find out More</a>
       </section>

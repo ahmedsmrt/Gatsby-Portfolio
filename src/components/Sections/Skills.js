@@ -253,7 +253,6 @@ export default function Skills() {
                   <div className="col-2">
                     <p>Figma</p>
                     <p>Canva</p>
-                    <p>Sketch</p>
                   </div>
                 </div>
               </div>
