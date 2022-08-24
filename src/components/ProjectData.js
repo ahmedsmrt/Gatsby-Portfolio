@@ -103,6 +103,6 @@ export const ProjectText = [
         "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%208.jpg?raw=true",
         "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2011.jpg?raw=true",
       ],
-      links: ['https://github.com/ahmedsmrt/Web-Portfolio', 'https://ahmedsmrt.github.io/Web-Portfolio/' ]
+      links: ['https://github.com/ahmedsmrt/Web-Portfolio', 'https://struggleportfolio.netlify.app/' ]
   },
 ];
