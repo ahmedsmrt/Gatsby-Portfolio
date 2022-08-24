@@ -44,7 +44,7 @@ export const ProjectText = [
     id: 4,
     title: "Simple Sign Up UI",
     description:
-      "This is a part of a larger personal project that I am building to help encourage journaling to improve a persons mental clarity. This mini project helps demonstrate handling form data and React hook and side effects management!",
+      "This is a part of a larger personal project that I am building to help encourage journaling to improve a persons mental clarity. This mini project helps demonstrate handling form data and React hook and side effects management while showing off a simple sign up and log in UI!",
     languages: ["Javascript", "Html", "Css", "React", "Styled Components", "Figma" ],
     screenshots: [
       "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2019.jpg?raw=true",
