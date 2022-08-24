@@ -8,9 +8,9 @@ export const ProjectText = [
       "This application is one of my personal favorites. A full stack note app that with a twist that promotes mental health. Using the MERN stack to build this beautiful app was a challenging yet rewarding expereince. From setting up the REST Api to adding the last front end feature I can say there was not a moment I wasn't excited to completed this!",
     languages: ["Javascript", "Html", "Css", "React", "Express", "MongoDB", "Node", "Framer-Motion", "Rest API"],
     screenshots: [
-      "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2017.jpg?raw=true",
-      "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2016.jpg?raw=true",
-      "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2018.jpg?raw=true",
+      "https://github.com/ahmedsmrt/notes-full-stack/blob/master/public/images/Image%2023.jpg?raw=true",
+      "https://github.com/ahmedsmrt/notes-full-stack/blob/master/public/images/Image%2024.jpg?raw=true",
+      "https://github.com/ahmedsmrt/notes-full-stack/blob/master/public/images/Image%2025.jpg?raw=true",
     ],
     links: ['https://github.com/ahmedsmrt/notes-full-stack', 'https://nuance-notes.netlify.app/' ]
   },
