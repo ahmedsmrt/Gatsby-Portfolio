@@ -3,16 +3,16 @@ import React from "react";
 export const ProjectText = [
   {
     id: 1,
-    title: "Google Fonts Stylin App",
+    title: "Notes with Nuance",
     description:
-      "An little application of mine that I created to help eliminate some of the headache of finding matching font styles during my design phase, using the Google Font API some react and a lot of patience I learned the ins and outs of this api in order to bring it to this simplistic UI.",
-    languages: ["Javascript", "Html", "Css", "React", "Styled Components", "Rest API"],
+      "This application is one of my personal favorites. A full stack note app that with a twist that promotes mental health. Using the MERN stack to build this beautiful app was a challenging yet rewarding expereince. From setting up the REST Api to adding the last front end feature I can say there was not a moment I wasn't excited to completed this!",
+    languages: ["Javascript", "Html", "Css", "React", "Express", "MongoDB", "Node", "Framer-Motion", "Rest API"],
     screenshots: [
       "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2017.jpg?raw=true",
       "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2016.jpg?raw=true",
       "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2018.jpg?raw=true",
     ],
-    links: ['https://github.com/ahmedsmrt/Google-Font-Comparison-App', 'https://googlecomparison.netlify.app/' ]
+    links: ['https://github.com/ahmedsmrt/notes-full-stack', 'https://nuance-notes.netlify.app/' ]
   },
   {
     id: 2,
