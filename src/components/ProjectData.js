@@ -51,7 +51,7 @@ export const ProjectText = [
       "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2020.jpg?raw=true",
       "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2021.jpg?raw=true",
     ],
-    links: ['https://github.com/ahmedsmrt/nuanced-notes/tree/master/notes-with-nuances', 'https://nuancednotesverone.netlify.app/' ]
+    links: ['https://github.com/ahmedsmrt/nuanced-notes/tree/master/notes-with-nuances', 'https://simplesignup.netlify.app/' ]
   },
   {
     id: 5,
