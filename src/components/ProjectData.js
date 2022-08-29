@@ -5,7 +5,7 @@ export const ProjectText = [
     id: 1,
     title: "Notes with Nuance",
     description:
-      "This application is one of my personal favorites. A full stack note app that with a twist that promotes mental health. Using the MERN stack to build this beautiful app was a challenging yet rewarding expereince. From setting up the REST Api to adding the last front end feature I can say there was not a moment I wasn't excited to completed this!",
+      "This application is one of my personal favorites. A full stack note app that with a twist that promotes mental health. Using the MERN stack to build this beautiful app was a challenging yet rewarding expereince. From setting up the REST Api to adding the last front end feature I can say there was not a moment I wasn't excited to complete this!",
     languages: ["Javascript", "Html", "Css", "React", "Express", "MongoDB", "Node", "Framer-Motion", "Rest API"],
     screenshots: [
       "https://github.com/ahmedsmrt/notes-full-stack/blob/master/public/images/Image%2023.jpg?raw=true",
@@ -18,7 +18,7 @@ export const ProjectText = [
     id: 2,
     title: "Google Fonts Stylin App",
     description:
-      "An little application of mine that I created to help eliminate some of the headache of finding matching font styles during my design phase, using the Google Font API some react and a lot of patience I learned the ins and outs of this api in order to bring it to this simplistic UI.",
+      "A little application of mine that I created to help eliminate some of the headache of finding matching font styles during my design phase, using the Google Font API some react and a lot of patience I learned the ins and outs of this api in order to bring it to this simplistic UI.",
     languages: ["Javascript", "Html", "Css", "React", "Styled Components", "Rest API"],
     screenshots: [
       "https://github.com/ahmedsmrt/Gatsby-Portfolio/blob/main/src/images/Image%2017.jpg?raw=true",
