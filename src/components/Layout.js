@@ -156,7 +156,7 @@ export default function Layout({ children }) {
         <main>{children}</main>
       </div>
       <div className="footer-text">
-        &#169; Devloped by Ahmed Gasim 2022
+        &#169; Developed by Ahmed Gasim 2022
         <div className="footerSocialIcons">
           <ul>
             <li>
